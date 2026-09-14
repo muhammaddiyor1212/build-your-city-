@@ -1,0 +1,6 @@
+{
+  "name": "BUILD YOUR CITY",
+  "description": "An isometric city building simulation game. Plan roads, zone districts, manage citizens, utilities, and economy, and expand into a thriving metropolis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
